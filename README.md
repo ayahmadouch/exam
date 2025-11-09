@@ -1,2 +1,2 @@
 # exam
-aya hmadouch grp b
+prg exam
